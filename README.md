@@ -1,8 +1,8 @@
 # Bem vindo ao curso de Git e Github.
-Nesse curso Você vai dominar todo git e github do zero ao proficional.
+Nesse curso Você vai dominar todo **git** e **github** _do zero ao proficional._
 
 ## Módulos: 
-Entendendo o que é git, Aprendendo sobre repositórios, Trabalhando com branches
+_Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando com **branches**_
 
 ## Título <h1>
 
@@ -15,4 +15,7 @@ Entendendo o que é git, Aprendendo sobre repositórios, Trabalhando com branche
 ##### Título <h5>
 
 ###### Título <h6>
+
+
+###### entre dois asteriscos em mardown é negrito e entre anderlaines é itálico.
 
