@@ -19,3 +19,5 @@ _Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando co
 
 ###### entre dois asteriscos em mardown é negrito e entre anderlaines é itálico.
 
+![Colocando imagem com MarkDown](/imagens/imagem_vsCode.PNG)
+
