@@ -35,12 +35,12 @@ _Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando co
 
 
 1. Começando com GIT.
-        1. O que é GIT ?
-        2. Instalando o git na máquina.
+    1. O que é GIT ?
+    S2. Instalando o git na máquina.
 2. Aprendendo sobre branches.
 3. GIT avançado.
 4. Usando github de forma proficional.
 
-### para as sub, coloca 2 vezes tab.
+### para as sub, coloca tab.
 
 
