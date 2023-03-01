@@ -24,3 +24,12 @@ _Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando co
 ### Rede Social:
 [Instagram](https://instagram.com/flamengo)
 
+### Para Imagens, coloca a exclamação, para o link, não usa a exclamação.
+
+## Trabalhando com Listas, Ordenadas e não ordenadas.
+
+* Começando com GIT.
+* Aprendendo sobre branches.
+* GIT avançado.
+* Usando github de forma proficional.
+
