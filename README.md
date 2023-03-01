@@ -33,3 +33,10 @@ _Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando co
 * GIT avançado.
 * Usando github de forma proficional.
 
+
+1. Começando com GIT.
+2. Aprendendo sobre branches.
+3. GIT avançado.
+4. Usando github de forma proficional.
+
+
