@@ -83,6 +83,21 @@ function showName(name){
 }
 ```
 
+### A parte de Tasklist.....
+
+**Ultimas atualizações**
+- [x] Site responsivo.
+- [] Login com facebook.
+- [] Pagina sobre a empresa.
+
+
+
+
+
+
+
+
+
 
 
 
