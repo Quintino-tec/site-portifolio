@@ -44,3 +44,14 @@ _Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando co
 ### para as sub, coloca tab.
 
 
+## Parte do Blockquote .......
+
+>Este é um blockquote, usado para destacar alguma area.
+>
+>Segunda area 
+
+###### quebra de linha no blockquote é com o sinal de maior.
+
+
+
+
