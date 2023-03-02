@@ -52,6 +52,39 @@ _Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando co
 
 ###### quebra de linha no blockquote é com o sinal de maior.
 
+**Comando para rodar o projeto:**
+### O comando que entende o trecho de código é dentro de têz aspas simples, no Markdown....
+
+```
+npm start
+```
+
+**Exemplo de uso do script:**
+
+```Js
+function showName(name){
+    return 'Bem vindo: ' + name;
+}
+```
+
+**Uso do componente HTML:**
+```html
+<h1>
+    Título do projeto
+    <span>Curso Git</h1>
+</h1>
+```
+
+**CSS padrão do projeto:**
+```css
+.titulo{
+    background-color: #FFF;
+    color: #FF0000;
+}
+```
+
+
+
 
 
 
