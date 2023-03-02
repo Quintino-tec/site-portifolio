@@ -91,6 +91,18 @@ function showName(name){
 - [] Login com facebook.
 - [] Pagina sobre a empresa.
 
+### A parte de tabelas no markdown.....
+
+Propriedade | Descrição
+----------- | ---------
+name | Para informar o nome do usuario
+size | Para definir o tamanho do campo
+background | Cor de fundo da area em HEX
+onPress | Funçao chamada quando clicar no botão
+###### A barra é para mudar de coluna, os sinais de menos é para traçar a risca.
+### ................................................
+
+
 
 
 
