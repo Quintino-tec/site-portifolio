@@ -104,7 +104,12 @@ onPress | Funçao chamada quando clicar no botão
 **Se quiser colocar mais colunas é só colocar mais barra,e continuar com os sinais de menos, para continuar com o trassejado**.
 ### ................................................
 
+## Comandos para lincar os menus do readme.....
 
+[Rede Socila](#rede-social)
+[Exemplo de listas](#trabalhando-com-listas-ordenadas-e-não-ordenadas)
+
+**pega o endereço do link que precisa ir e coloca no local do endereço**
 
 
 
