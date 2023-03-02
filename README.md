@@ -101,7 +101,7 @@ background | Cor de fundo da area em HEX
 onPress | Funçao chamada quando clicar no botão
 ###### A barra é para mudar de coluna, os sinais de menos é para traçar a risca.
 
-**Se quiser colocar mais colunas é só colocar mais barra,e continuar com os sinais de menos, para continuar com o trassejado.
+**Se quiser colocar mais colunas é só colocar mais barra,e continuar com os sinais de menos, para continuar com o trassejado**.
 ### ................................................
 
 
