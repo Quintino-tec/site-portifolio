@@ -84,6 +84,7 @@ function showName(name){
 ```
 
 ### A parte de Tasklist.....
+###### Com o 'X', deixa marcado, tanto fáz ser maiúsculo, como minúsculo.
 
 **Ultimas atualizações**
 - [x] Site responsivo.
